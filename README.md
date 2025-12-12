@@ -37,12 +37,12 @@
 ## 🔬 Highlighted Projects
 
 ### ☁️ [SocketShare](https://github.com/tarun1506/SocketShare)
-Secure cloud storage app built with **React**, **Flask**, and **AWS S3**, featuring **concurrent request handling**, **caching**, and **encryption** for scalable file sharing. :contentReference[oaicite:6]{index=6}  
+Secure cloud storage app built with **React**, **Flask**, and **AWS S3**, featuring **concurrent request handling**, **caching**, and **encryption** for scalable file sharing.
 
 ---
 
 ### 🔐 [LockBox](https://github.com/agni-ch/lockbox)
-iOS password manager built in **Swift**, with encrypted auth, keychain integration, and **geolocation-based** access control to securely manage credentials. :contentReference[oaicite:7]{index=7}  
+iOS password manager built in **Swift**, with encrypted auth, keychain integration, and **geolocation-based** access control to securely manage credentials.
 
 ---
 
