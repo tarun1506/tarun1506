@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tarun
 
 💻 Graduate CS student & software engineer who loves building **scalable, secure, and reliable systems**.  
-🎓 M.S. Computer Science @ Northeastern University (2023–2025) :contentReference[oaicite:1]{index=1}  
+🎓 M.S. Computer Science @ Northeastern University (2023–2025)  
 ☁️ Interested in distributed systems, backend engineering, and cloud-native apps.  
 
 ---
@@ -9,17 +9,17 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-`Python` · `Java` · `C++` · `JavaScript` · `Swift` · `Bash` :contentReference[oaicite:2]{index=2}  
+`Python` · `Java` · `C++` · `JavaScript` · `Swift` · `Bash`   
 
 **Backend & Infra:**  
 `Spring Boot` · `Node.js` · `REST APIs` · `Microservices`  
-`AWS (S3, EC2)` · `Docker` · `Kubernetes` :contentReference[oaicite:3]{index=3}  
+`AWS (S3, EC2)` · `Docker` · `Kubernetes` 
 
 **Frontend:**  
-`React` · `Angular` · `HTML` · `CSS` :contentReference[oaicite:4]{index=4}  
+`React` · `Angular` · `HTML` · `CSS`
 
 **Databases:**  
-`MySQL` · `MongoDB` · `SQL` · `Firebase` :contentReference[oaicite:5]{index=5}  
+`MySQL` · `MongoDB` · `SQL` · `Firebase`
 
 ---
 
@@ -27,29 +27,8 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=tarun1506&show_icons=true&include_all_commits=true&rank_icon=github" 
-    alt="Tarun's GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun1506&layout=compact&langs_count=8" 
     alt="Top Languages" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=tarun1506&mode=weekly" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=tarun1506&theme=flat&no-frame=true&margin-w=10" 
-    alt="GitHub Trophies" 
   />
 </p>
 
